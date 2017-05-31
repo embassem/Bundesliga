@@ -441,7 +441,7 @@
 				TargetAttributes = {
 					181047D21E3E03A00088AB4F = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5XVQXNUMT6;
+						DevelopmentTeam = 3HW52YW266;
 						ProvisioningStyle = Automatic;
 					};
 					181047E61E3E03A00088AB4F = {
@@ -824,7 +824,7 @@
 			baseConfigurationReference = CF2CBBACDEE53DACFF396949 /* Pods-Bundesliga.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5XVQXNUMT6;
+				DEVELOPMENT_TEAM = 3HW52YW266;
 				INFOPLIST_FILE = "$(SRCROOT)/Bundesliga/SupportFiles/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -839,7 +839,7 @@
 			baseConfigurationReference = 9A75FFFE824EE925F707ACEC /* Pods-Bundesliga.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5XVQXNUMT6;
+				DEVELOPMENT_TEAM = 3HW52YW266;
 				INFOPLIST_FILE = "$(SRCROOT)/Bundesliga/SupportFiles/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

@@ -1,0 +1,6 @@
+framework module Pods_BundesligaTests {
+  umbrella header "Pods-BundesligaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
